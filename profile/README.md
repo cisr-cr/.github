@@ -22,14 +22,10 @@ Nuestra visión en CISR es crear un futuro en el que todos los moncheños tengan
 
 ## Valores
 
-1. Accesibilidad: Creemos que la educación en informática debe ser accesible para todos las personas, independientemente de su estatus socioeconómico.
+1. Creatividad: Valoramos la creatividad y la exploración, y alentamos a las personas a pensar de manera innovadora y explorar su potencial creativo.
 
-2. Inclusividad: Nos esforzamos por crear un ambiente seguro y acogedor donde todos sean bienvenidos y respetados.
+2. Educación: Creemos que la programación y la educación en informática son esenciales para preparar a las personas para los desafíos del siglo XXI.
 
-3. Creatividad: Valoramos la creatividad y la exploración, y alentamos a las personas a pensar de manera innovadora y explorar su potencial creativo.
+3. Apoyo: Estamos comprometidos a proporcionar a los estudiantes el apoyo que necesitan para aprender y tener éxito.
 
-4. Educación: Creemos que la programación y la educación en informática son esenciales para preparar a las personas para los desafíos del siglo XXI.
-
-5. Apoyo: Estamos comprometidos a proporcionar a los estudiantes el apoyo que necesitan para aprender y tener éxito.
-
-6. Diversión: Creemos que el aprendizaje debe ser placentero y gratificante, y nos esforzamos por crear un ambiente donde los estudiantes puedan explorar y divertirse.
+4. Diversión: Creemos que el aprendizaje debe ser placentero y gratificante, y nos esforzamos por crear un ambiente donde los estudiantes puedan explorar y divertirse.

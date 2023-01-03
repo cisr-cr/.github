@@ -2,7 +2,7 @@
 
 Somos una organización sin fines de lucro que se dedica a brindarle a los moncheños acceso a la educación en programación y informatica con recursos de calidad. 
 
-Estamos comprometidos a brindarles a los estudiantes los recursos y el apoyo que necesitan para aprender y tener éxito, y a fomentar su desarrollo para que puedan llevar vidas exitosas y plenas. 
+Estamos comprometidos a brindarle a los estudiantes los recursos y el apoyo que necesitan para aprender y tener éxito, fomentando su desarrollo para que puedan llevar vidas exitosas y plenas. 
 
 Los invitamos a unirse a nosotros en este viaje y ayudarnos a hacer que la educación en San Ramón sea accesible y agradable para todos.
 
@@ -30,6 +30,6 @@ Nuestra visión en CISR es crear un futuro en el que todos los moncheños tengan
 
 4. Educación: Creemos que la programación y la educación en informática son esenciales para preparar a las personas para los desafíos del siglo XXI.
 
-5. Apoyo: Estamos comprometidos a proporcionar a los estudiantes los recursos y el apoyo que necesitan para aprender y tener éxito.
+5. Apoyo: Estamos comprometidos a proporcionar a los estudiantes el apoyo que necesitan para aprender y tener éxito.
 
 6. Diversión: Creemos que el aprendizaje debe ser placentero y gratificante, y nos esforzamos por crear un ambiente donde los estudiantes puedan explorar y divertirse.

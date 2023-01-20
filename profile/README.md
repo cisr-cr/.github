@@ -1,4 +1,4 @@
-## ¡Bienvenido al Centro Informático de San Ramón (CISR)! 
+## ¡Bienvenid@ al Centro Informático de San Ramón (CISR)! 
 
 Somos una organización sin fines de lucro que se dedica a brindarle a los moncheños acceso a la educación en programación y informatica con recursos de calidad. 
 

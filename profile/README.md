@@ -1,24 +1,22 @@
 ## ¡Bienvenid@ al Centro Informático de San Ramón (CISR)! 
 
-Somos una organización sin fines de lucro que se dedica a brindarle a los moncheños acceso a la educación en programación y informatica con recursos de calidad. 
+Somos una organización sin fines de lucro enfocada en el desarrollo de aplicaciones que beneficien a la comunidad moncheña. Nuestro compromiso es ofrecer soluciones tecnológicas que impacten positivamente la vida de las personas en San Ramón.
 
-Estamos comprometidos a brindarle a los estudiantes los recursos y el apoyo que necesitan para aprender y tener éxito, fomentando su desarrollo para que puedan llevar vidas exitosas y plenas. 
-
-Los invitamos a unirse a nosotros en este viaje y ayudarnos a hacer que la educación en San Ramón sea accesible y agradable para todos.
+Te invitamos a unirte a nuestra causa y ser parte de esta iniciativa que busca hacer accesibles y relevantes las herramientas tecnológicas para el progreso de San Ramón.
 
 ## Misión
 
-Nuestra misión en el Centro Informático de San Ramon (CISR) es brindarle a los adolcentes acceso a la educación en informatica y programación, empoderándolos para que se conviertan en creadores, pensadores y emprendedores. 
+Nuestra misión en el Centro Informático de San Ramon (CISR) es facilitar soluciones tecnológicas que aborden problemas cotidianos, automatizando procesos y digitalizando la infraestructura para impulsar el progreso de San Ramón.
 
-Nos esforzaremos por ampliar el acceso a la educación en programación y ciencias de la computación para todos los adolcentes, independientemente de su estatus socioeconómico. 
+Nuestro propósito es capacitar a los jóvenes para identificar desafíos locales y desarrollar aplicaciones que resuelvan eficazmente esos problemas. Nos enfocamos en mejorar la calidad de vida, simplificar tareas diarias y promover la modernización digital en todos los sectores de la comunidad.
 
-Al brindarles las herramientas y los recursos necesarios para explorar y crear, los ayudaremos a fomentar su desarrollo y los prepararemos para un futuro exitoso. 
-
-Trabajaremos para crear un ambiente donde el aprendizaje sea agradable y accesible, y donde las personas puedan explorar su potencial creativo y desarrollar las habilidades necesarias para enfrentar los desafíos del siglo XXI.
+Trabajamos incansablemente para cultivar una cultura de innovación y colaboración, donde la tecnología se convierta en una herramienta accesible para impulsar el avance de San Ramón hacia un futuro más eficiente, conectado y próspero.
 
 ## Visión
 
-Nuestra visión en CISR es crear un futuro en el que todos los moncheños tengan acceso a la educación en informática y programación. Asi empoderarlos para que se conviertan en creadores digitales y solucionadores de problemas. 
+En CISR aspiramos a crear un San Ramón donde la innovación tecnológica sea una fuerza transformadora. Visualizamos una comunidad empoderada, donde la resolución de problemas cotidianos se logre a través de soluciones digitales inteligentes y accesibles.
+
+Buscamos un futuro donde cada rincón de San Ramón esté digitalmente conectado, donde la automatización de procesos simplifique las tareas diarias y donde la infraestructura tecnológica fortalezca y acelere el desarrollo de la ciudad.
 
 ## Valores
 
@@ -26,6 +24,6 @@ Nuestra visión en CISR es crear un futuro en el que todos los moncheños tengan
 
 2. Educación: Creemos que la programación y la educación en informática son esenciales para preparar a las personas para los desafíos del siglo XXI.
 
-3. Apoyo: Estamos comprometidos a proporcionar a los estudiantes el apoyo que necesitan para aprender y tener éxito.
+3. Innovación: Fomentamos la creatividad y la búsqueda de soluciones únicas para desafíos cotidianos, impulsando la adopción de tecnología como motor de cambio.
 
-4. Diversión: Creemos que el aprendizaje debe ser placentero y gratificante, y nos esforzamos por crear un ambiente donde los estudiantes puedan explorar y divertirse.
+4. Colaboración: Valoramos el trabajo en equipo y la cooperación para desarrollar aplicaciones que beneficien a la comunidad, promoviendo la participación activa de todos los sectores.
